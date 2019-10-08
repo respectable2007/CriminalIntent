@@ -1,4 +1,4 @@
-#Mon Sep 30 16:47:43 CST 2019
+#Tue Oct 08 15:36:24 CST 2019
 base.0=F\:\\android\\CriminalIntent\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

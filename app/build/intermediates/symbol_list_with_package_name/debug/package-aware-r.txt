@@ -752,6 +752,7 @@ id content
 id contentPanel
 id crime_date
 id crime_solved
+id crime_title
 id custom
 id customPanel
 id decor_content_parent
